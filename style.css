@@ -1,0 +1,14 @@
+.form{
+    height: 200px;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+  .card {
+    padding: 1rem;
+    border: 1px solid black;
+    margin: 1rem;
+    }  
